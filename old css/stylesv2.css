@@ -1,0 +1,186 @@
+
+.small-12 island{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.main{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.row{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.small-12 large-8 columns column-left{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.small-12 island{
+  color: white!important;
+  background-color:#242625 !important;
+}
+#component32814{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.component-action{
+  color: white !important;
+  background-color: #242625 !important;
+}
+#news-component{
+  color: white!important;
+  background-color:#242625 !important;
+}
+.tabs {
+  color: white !important;
+  background-color:#242625 !important;
+}
+.active{
+  color: white !important;
+  background-color:#242625 !important;
+}
+.timetable {
+  color: white !important;
+  background-color:#242625 !important;
+}
+.scrollable show-for-medium-up {
+  color: white !important;
+  background-color:#242625 !important;
+}
+.timetable-subject {
+  background-color:#242625 !important;
+  color: white !important;
+}
+
+.button {
+  color: white !important;
+  background-color: #242625 !important;
+}
+.right-off-canvas-menu island no-pad hide-for-print socket connected{
+  background-color: #242625 !important;
+  color: white !important;
+}
+.off-canvas-list{
+  background-color: #242625 !important;
+  color: white !important;
+}
+.action-list{
+  background-color: #242625 !important;
+  color: white !important;
+}
+.tileList{
+  background-color: #242625 !important;
+  color: white !important;
+}
+
+li a span {
+  font-size: 11px;
+  font-family: Calibri;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 11px;
+  font-family: Calibri;
+  color: #FFFFFF;
+  background-color: #242625;
+}
+ body {
+  background-color: #242625 !important;
+  color: white !important;
+
+}
+h1 {
+  color: #FFFFFF !important;
+  background-color: #242625;
+}
+h2 {
+  color: #FFFFFF !important;
+  background-color: #242625;
+}
+h3 {
+  color: #FFFFFF !important;
+  background-color: #242625 !important;
+}
+.left-menu{
+  background-color: #242625 !important;
+}
+.off-canvas-list{
+  background-color: #242625 !important;
+}
+
+/* unvisited link */
+a:link {
+  color: white !important;
+}
+
+/* visited link */
+a:visited {
+  color: white !important;
+}
+.v-card-list {
+  background-color: #242625 !important;
+}
+
+/* mouse over link */
+a:hover {
+  color: white !important;
+}
+
+/* selected link */
+a:active {
+  color: white !important;
+}
+.off-canvas-list {
+  color: white !important;
+}
+.side-menu {
+  color: white !important;
+}
+.information-list {
+  background-color: #242625 !important;
+}
+.small-12 island {
+  display: None !important;
+}
+.subheader {
+  display: None !important;
+}
+.content {
+  display: None !important;
+}
+
+/*time table preview*/
+th, td {
+  background:#242625;
+}
+
+/*events preview*/
+td.fc-list-item-time.fc-widget-content {
+  background:#242625;
+}
+
+/*student list*/
+div.card-small-12 {
+  background-color: #242625;
+}
+
+/*updates/news*/
+div.list-item {
+  background-color: #242625;
+}
+
+div.empty-state.no-margin {
+  background-color: #242625;
+}
+
+img {
+  z-index:9999;
+  display:absolute;
+}
+
+section {
+  background-color: #242625;
+  background: #242625;
+  color: #242625;
+}

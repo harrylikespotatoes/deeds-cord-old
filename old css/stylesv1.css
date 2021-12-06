@@ -1,0 +1,145 @@
+.small-12 island
+  color: white!important;
+  background-color:black !important;
+}
+.main{
+  color: white!important;
+  background-color:black !important;
+}
+.row{
+  color: white!important;
+  background-color:black !important;
+}
+.small-12 large-8 columns column-left{
+  color: white!important;
+  background-color:black !important;
+}
+.small-12 island{
+  color: white!important;
+  background-color:black !important;
+}
+#component32814{
+  color: white!important;
+  background-color:black !important;
+}
+.component-action{
+  color: white !important;
+  background-color: black !important;
+}
+#news-component{
+  color: white!important;
+  background-color:black !important;
+}
+.tabs {
+  color: white !important;
+  background-color:black !important;
+}
+.active{
+  color: white !important;
+  background-color:black !important;
+}
+.timetable {
+  color: white !important;
+  background-color:black !important;
+}
+.scrollable show-for-medium-up {
+  color: white !important;
+  background-color:black !important;
+}
+.timetable-subject {
+  background-color:black !important;
+  color: white !important;
+}
+
+.button {
+  color: white !important;
+  background-color: black !important;
+}
+.right-off-canvas-menu island no-pad hide-for-print socket connected{
+  background-color: black !important;
+  color: white !important;
+}
+.off-canvas-list{
+  background-color: black !important;
+  color: white !important;
+}
+.action-list{
+  background-color: black !important;
+  color: white !important;
+}
+.tileList{
+  background-color: black !important;
+  color: white !important;
+}
+
+li a span {
+  font-size: 11px;
+  font-family: Calibri;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 11px;
+  font-family: Calibri;
+  color: #FFFFFF;
+}
+ body {
+  background-color: black !important;
+  color: white !important;
+}
+h1 {
+  color: #FFFFFF !important;
+}
+h2 {
+  color: #FFFFFF !important;
+}
+h3 {
+  color: #FFFFFF !important;
+}
+.left-menu{
+  background-color: black !important;
+}
+.off-canvas-list{
+  background-color: black;
+}
+
+/* unvisited link */
+a:link {
+  color: white !important;
+}
+
+/* visited link */
+a:visited {
+  color: white !important;
+}
+.v-card-list {
+  background-color: black !important;
+}
+
+/* mouse over link */
+a:hover {
+  color: white !important;
+}
+
+/* selected link */
+a:active {
+  color: white !important;
+}
+.off-canvas-list {
+  color: white !important;
+}
+.side-menu {
+  color: white !important;
+}
+.information-list {
+  background-color: black !important;
+}
+.small-12 island {
+  display: None !important;
+}
+.subheader {
+  display: None !important;
+}
+.content {
+  display: None !important;
+}
